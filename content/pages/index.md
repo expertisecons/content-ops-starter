@@ -4,7 +4,7 @@ slug: /
 sections:
   - type: GenericSection
     title:
-      text: Urbanización Montepinar P.H
+      text: Montepinar P.H
       color: text-dark
       type: TitleBlock
     subtitle: Subtitle goes here
