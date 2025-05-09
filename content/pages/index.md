@@ -64,10 +64,11 @@ sections:
       - type: FeaturedItem
         title: Fumigación
         subtitle: Numbers Done
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        text: >
+          Durante el mes de mayo la administración hará el primer lavado de
+          tanques del año, lo que conlleva la suspensión temporal del servicio
+          de acueducto. Los horarios serán notificados de manera oportuna a
+          través de las carteleras informativas.
         actions: []
         elementId: null
         colors: bg-neutralAlt-fg-dark
