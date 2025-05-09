@@ -53,7 +53,7 @@ sections:
           - pr-16
   - type: FeaturedItemsSection
     title:
-      text: Apartamentos en arriendo o venta
+      text: Programación del mes
       color: text-dark
       styles:
         self:
