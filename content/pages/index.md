@@ -63,7 +63,7 @@ sections:
     items:
       - type: FeaturedItem
         title: Fumigación
-        subtitle: Numbers Done
+        subtitle: Mayo de 2025
         text: >
           Durante el mes de mayo la administración hará el primer lavado de
           tanques del año, lo que conlleva la suspensión temporal del servicio
