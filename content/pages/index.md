@@ -7,7 +7,7 @@ sections:
       text: Montepinar P.H
       color: text-dark
       type: TitleBlock
-    subtitle: Subtitle goes here
+    subtitle: 'Calle 38 B Sur 26-01 Envigado, Ant.'
     text: >
       Bienvenidos al sitio web de la urbanización Montepinar. Acá podrá
       encontrar información de interés tanto para propietarios, residentes o
