@@ -149,7 +149,7 @@ sections:
         elementId: ''
         type: Button
     badge:
-      label: Anuncios
+      label: Información de interés
       color: text-primary
       styles:
         self:
