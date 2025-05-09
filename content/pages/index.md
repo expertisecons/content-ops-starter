@@ -59,7 +59,7 @@ sections:
         self:
           textAlign: center
       type: TitleBlock
-    subtitle: Subtitle goes here
+    subtitle: Entérese de las actividades programadas para este mes
     items:
       - type: FeaturedItem
         title: Fumigación
