@@ -219,7 +219,7 @@ sections:
             flexDirection: col
         type: FeaturedItem
       - title: Feature Item Two
-        tagline: This is the tagline
+        tagline: Arriendo
         subtitle: This is the item subtitle
         text: |
           Follow the tutorial to build your first awesome Netlify Create site.
