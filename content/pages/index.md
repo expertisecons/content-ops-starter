@@ -188,7 +188,7 @@ sections:
       type: TitleBlock
     subtitle: Featured items section subtitle
     items:
-      - title: Feature Item One
+      - title: Torre 4 Apto 5003
         tagline: Venta
         subtitle: This is the item subtitle
         text: |
