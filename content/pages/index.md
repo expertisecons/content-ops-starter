@@ -92,7 +92,7 @@ sections:
             self:
               borderRadius: x-large
       - title: Administración
-        subtitle: The Job Stuff
+        subtitle: Mayo - Junio de 2025
         text: >
           El consejo de administración se encuentra en proceso de selección del
           nuevo administrador para la copropiedad y luego se hará el empalme con
