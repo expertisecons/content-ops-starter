@@ -190,7 +190,7 @@ sections:
     items:
       - title: Torre 4 Apto 5003
         tagline: Venta
-        subtitle: This is the item subtitle
+        subtitle: 71 mts2
         text: |
           Follow the tutorial to build your first Netlify Create site.
         image:
