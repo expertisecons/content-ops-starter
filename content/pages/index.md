@@ -191,13 +191,9 @@ sections:
       - title: Torre 4 Apto 5003
         tagline: Venta
         subtitle: 71 mts2
-        text: |+
-          Tres habitaciones
-
-          Dos baños
-
-          Parqueadero cubierto
-
+        text: >
+          Sala, comedor, cocina, Tres habitaciones, dos baños, parqueadero
+          cubierto
         image:
           url: /images/abstract-feature1.svg
           altText: Placeholder Image
