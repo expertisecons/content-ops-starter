@@ -192,13 +192,11 @@ sections:
         tagline: Venta
         subtitle: 71 mts2
         text: |+
-          Tres habitaciones
+          #### Tres habitaciones
 
-          Dos baños
+          #### Dos baños
 
-          Parqueadero cubierto
-
-
+          #### Parqueadero cubierto
 
         image:
           url: /images/abstract-feature1.svg
