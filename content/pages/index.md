@@ -191,8 +191,15 @@ sections:
       - title: Torre 4 Apto 5003
         tagline: Venta
         subtitle: 71 mts2
-        text: |
-          Follow the tutorial to build your first Netlify Create site.
+        text: |+
+          Tres habitaciones
+
+          Dos baños
+
+          Parqueadero cubierto
+
+
+
         image:
           url: /images/abstract-feature1.svg
           altText: Placeholder Image
