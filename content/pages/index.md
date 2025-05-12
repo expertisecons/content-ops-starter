@@ -193,7 +193,10 @@ sections:
         subtitle: 71 mts2
         text: >
           Sala, comedor, cocina, Tres habitaciones, dos baños, parqueadero
-          cubierto
+          cubierto.
+
+
+          Informes:  Arrendamientos XXX 3033333333 Codigo 3449
         image:
           url: /images/abstract-feature1.svg
           altText: Placeholder Image
