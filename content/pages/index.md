@@ -218,7 +218,7 @@ sections:
             borderRadius: x-large
             flexDirection: col
         type: FeaturedItem
-      - title: Feature Item Two
+      - title: Torre 6 Apto 3203
         tagline: Arriendo
         subtitle: This is the item subtitle
         text: |
