@@ -186,7 +186,7 @@ sections:
         self:
           textAlign: center
       type: TitleBlock
-    subtitle: Featured items section subtitle
+    subtitle: Venta / arriendo
     items:
       - title: Torre 4 Apto 5003
         tagline: Venta
