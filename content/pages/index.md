@@ -195,7 +195,7 @@ sections:
         image:
           type: ImageBlock
           url: /images/Arrendamiento 1.jpg
-          altText: Maria Walters
+          altText: ''
           styles:
             self:
               borderRadius: full
