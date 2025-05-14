@@ -603,7 +603,7 @@ sections:
     colors: bg-light-fg-dark
     type: GenericSection
   - type: CarouselSection
-    subtitle: This is a subtitle
+    subtitle: Oferta de inmuebles
     items:
       - type: FeaturedItem
         title: >-
