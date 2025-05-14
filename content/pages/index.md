@@ -617,7 +617,7 @@ sections:
           Código 1349 
         image:
           type: ImageBlock
-          url: /images/person-placeholder-light.png
+          url: /images/Arrendamiento 1.jpg
           altText: Maria Walters
           styles:
             self:
