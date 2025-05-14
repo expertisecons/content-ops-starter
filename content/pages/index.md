@@ -352,6 +352,76 @@ sections:
           - pr-7
     type: DividerSection
   - type: CarouselSection
+    subtitle: Oferta de inmuebles
+    items:
+      - type: FeaturedItem
+        title: >-
+          Tres habitaciones, dos baños, parqueadero cubierto, cuarto útil -
+          65mts2.
+        tagline: Apartamento en arriendo
+        subtitle: Arrendamientos XYZ
+        text: |
+          +57 3011111111
+
+          Código 1349 
+        image:
+          type: ImageBlock
+          url: /images/Arrendamiento 1.jpg
+          altText: Maria Walters
+          styles:
+            self:
+              borderRadius: full
+        actions: []
+        colors: bg-neutralAlt-fg-dark
+        styles:
+          self:
+            padding:
+              - pt-9
+              - pb-9
+              - pl-9
+              - pr-9
+            textAlign: left
+            borderRadius: large
+            flexDirection: row
+            justifyContent: center
+      - type: FeaturedItem
+        title: >-
+          Tres habitaciones, dos baños estudio, parqueadero con cuarto útil
+          78mts2.
+        tagline: Apartamento en venta
+        subtitle: 'Jane Doe, Company'
+        text: >-
+          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
+          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
+          explicabo.
+        image:
+          type: ImageBlock
+          url: /images/Arrendamiento 1.jpg
+          altText: Jane Doe
+          styles:
+            self:
+              borderRadius: full
+        actions: []
+        colors: bg-dark-fg-light
+        styles:
+          self:
+            padding:
+              - pt-9
+              - pb-9
+              - pl-9
+              - pr-9
+            textAlign: left
+            borderRadius: large
+            flexDirection: row
+            justifyContent: center
+    variant: next-prev-nav
+    colors: bg-light-fg-dark
+    styles:
+      self:
+        justifyContent: center
+      subtitle:
+        textAlign: center
+  - type: CarouselSection
     title: null
     subtitle: What our customers say about us
     items:
@@ -536,76 +606,6 @@ sections:
             justifyContent: center
         type: FeaturedItem
     elementId: null
-    variant: next-prev-nav
-    colors: bg-light-fg-dark
-    styles:
-      self:
-        justifyContent: center
-      subtitle:
-        textAlign: center
-  - type: CarouselSection
-    subtitle: Oferta de inmuebles
-    items:
-      - type: FeaturedItem
-        title: >-
-          Tres habitaciones, dos baños, parqueadero cubierto, cuarto útil -
-          65mts2.
-        tagline: Apartamento en arriendo
-        subtitle: Arrendamientos XYZ
-        text: |
-          +57 3011111111
-
-          Código 1349 
-        image:
-          type: ImageBlock
-          url: /images/Arrendamiento 1.jpg
-          altText: Maria Walters
-          styles:
-            self:
-              borderRadius: full
-        actions: []
-        colors: bg-neutralAlt-fg-dark
-        styles:
-          self:
-            padding:
-              - pt-9
-              - pb-9
-              - pl-9
-              - pr-9
-            textAlign: left
-            borderRadius: large
-            flexDirection: row
-            justifyContent: center
-      - type: FeaturedItem
-        title: >-
-          Tres habitaciones, dos baños estudio, parqueadero con cuarto útil
-          78mts2.
-        tagline: Apartamento en venta
-        subtitle: 'Jane Doe, Company'
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
-        image:
-          type: ImageBlock
-          url: /images/Arrendamiento 1.jpg
-          altText: Jane Doe
-          styles:
-            self:
-              borderRadius: full
-        actions: []
-        colors: bg-dark-fg-light
-        styles:
-          self:
-            padding:
-              - pt-9
-              - pb-9
-              - pl-9
-              - pr-9
-            textAlign: left
-            borderRadius: large
-            flexDirection: row
-            justifyContent: center
     variant: next-prev-nav
     colors: bg-light-fg-dark
     styles:
