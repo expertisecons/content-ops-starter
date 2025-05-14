@@ -607,8 +607,8 @@ sections:
     items:
       - type: FeaturedItem
         title: >-
-          “A designer knows he has achieved perfection not when there is nothing
-          left to add, but when there is nothing left to take away.”
+          Tres habitaciones, dos baños, parqueadero cubierto, cuarto útil -
+          65mts2.
         tagline: Apartamento en Venta
         subtitle: 'Maria Walters, Company'
         text: >-
