@@ -609,7 +609,7 @@ sections:
         title: >-
           Tres habitaciones, dos baños, parqueadero cubierto, cuarto útil -
           65mts2.
-        tagline: Apartamento en Venta
+        tagline: Apartamento en arriendo
         subtitle: Arrendamientos XYZ
         text: |
           +57 3011111111
