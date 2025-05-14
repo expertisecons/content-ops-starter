@@ -610,7 +610,7 @@ sections:
           Tres habitaciones, dos baños, parqueadero cubierto, cuarto útil -
           65mts2.
         tagline: Apartamento en Venta
-        subtitle: 'Maria Walters, Company'
+        subtitle: Arrendamientos XYZ
         text: >-
           Sed ut perspiciatis unde omnis iste natus error sit voluptatem
           accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
