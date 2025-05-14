@@ -637,8 +637,8 @@ sections:
             justifyContent: center
       - type: FeaturedItem
         title: >-
-          “Quote from some important person goes right here. I love using
-          Netlify.”
+          Tres habitaciones, dos baños estudio, parqueadero con cuarto útil
+          78mts2.
         tagline: Apartamento en venta
         subtitle: 'Jane Doe, Company'
         text: >-
